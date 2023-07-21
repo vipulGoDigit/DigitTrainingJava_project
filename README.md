@@ -1,1 +1,1 @@
-# DigitTrainingJava_project
+# DigitTrainingJava_Project_2
